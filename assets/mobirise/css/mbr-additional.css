@@ -1,5 +1,4 @@
 @import url(https://fonts.googleapis.com/css?family=Germania+One:400);
-@import url(https://fonts.googleapis.com/css?family=Oswald:200,300,400,500,600,700);
 @import url(https://fonts.googleapis.com/css?family=Bree+Serif:400);
 
 
@@ -29,14 +28,14 @@ body {
   font-size: 6.8rem;
 }
 .display-2 {
-  font-family: 'Oswald', sans-serif;
+  font-family: 'Bree Serif', serif;
   font-size: 2.2rem;
 }
 .display-2 > .mbr-iconfont {
   font-size: 3.52rem;
 }
 .display-4 {
-  font-family: 'Oswald', sans-serif;
+  font-family: 'Germania One', display;
   font-size: 1.3rem;
 }
 .display-4 > .mbr-iconfont {
@@ -44,10 +43,10 @@ body {
 }
 .display-5 {
   font-family: 'Germania One', display;
-  font-size: 1.5rem;
+  font-size: 3rem;
 }
 .display-5 > .mbr-iconfont {
-  font-size: 2.4rem;
+  font-size: 4.8rem;
 }
 .display-7 {
   font-family: 'Bree Serif', serif;
@@ -78,9 +77,9 @@ body {
     line-height: calc( 1.4 * (1.105rem + (1.3 - 1.105) * ((100vw - 20rem) / (48 - 20))));
   }
   .display-5 {
-    font-size: 1.2rem;
-    font-size: calc( 1.175rem + (1.5 - 1.175) * ((100vw - 20rem) / (48 - 20)));
-    line-height: calc( 1.4 * (1.175rem + (1.5 - 1.175) * ((100vw - 20rem) / (48 - 20))));
+    font-size: 2.4rem;
+    font-size: calc( 1.7rem + (3 - 1.7) * ((100vw - 20rem) / (48 - 20)));
+    line-height: calc( 1.4 * (1.7rem + (3 - 1.7) * ((100vw - 20rem) / (48 - 20))));
   }
 }
 /* Buttons */
@@ -1459,7 +1458,7 @@ body {
   width: 30px;
   height: 2px;
   border-right: 5px;
-  background-color: #e8b520;
+  background-color: #232323;
 }
 .cid-r8Y4JPqNti button.navbar-toggler .hamburger span:nth-child(1) {
   top: 0;
@@ -1848,7 +1847,7 @@ body {
 }
 .cid-r9289rOwNt {
   padding-top: 30px;
-  padding-bottom: 0px;
+  padding-bottom: 30px;
   background-color: #f8f8f8;
 }
 .cid-r9289rOwNt .mbr-section-subtitle {
@@ -2203,7 +2202,7 @@ body {
   width: 30px;
   height: 2px;
   border-right: 5px;
-  background-color: #e8b520;
+  background-color: #232323;
 }
 .cid-r8YHCCZPN7 button.navbar-toggler .hamburger span:nth-child(1) {
   top: 0;
@@ -4027,7 +4026,7 @@ body {
   width: 30px;
   height: 2px;
   border-right: 5px;
-  background-color: #e8b520;
+  background-color: #232323;
 }
 .cid-r97pNLQM0D button.navbar-toggler .hamburger span:nth-child(1) {
   top: 0;
